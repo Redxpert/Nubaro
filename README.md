@@ -1,7 +1,7 @@
 # Nubaro 
 
 Núbaro es una marca registrada creada por mmv s.a. 
-Bajo esta marca se van a comercializar:
+Bajo esta marca se comercializa:
 - Una línea de servidores con software Nserver
 - Software Nserver sin hardware incluido
 - Servicios de soporte
